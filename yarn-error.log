@@ -1,0 +1,36 @@
+Arguments: 
+  /home/talles/.asdf/installs/nodejs/14.15.0/bin/node /home/talles/.asdf/installs/nodejs/14.15.0/.npm/bin/yarn init
+
+PATH: 
+  /home/talles/.asdf/installs/nodejs/14.15.0/bin:/home/talles/.asdf/installs/nodejs/14.15.0/.npm/bin:/home/talles/.asdf/shims:/home/talles/.asdf/bin:/home/talles/.local/bin:/home/talles/.zinit/polaris/sbin:/home/talles/.zinit/polaris/bin:/home/talles/.local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/talles/.asdf/installs/nodejs/14.15.0/.npm/lib/node_modules/yarn/lib/cli.js:136216:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:875:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1144:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
